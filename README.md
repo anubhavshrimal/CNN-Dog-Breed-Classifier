@@ -18,7 +18,7 @@ Sample output of the project:
 
 ## Objectives
 
-Along with exploring state-of-the-art CNN models for classification and localization, the project will you to make important design decisions about the user experience for the app. The goal is to understand the challenges involved in piecing together a series of models designed to perform various tasks in a data processing pipeline. Each model has its strengths and weaknesses, and engineering a real-world application often involves solving many problems without a perfect answer.
+Along with exploring state-of-the-art CNN models for classification and localization, the project will allow you to make important design decisions about the user experience for the app. The goal is to understand the challenges involved in piecing together a series of models designed to perform various tasks in a data processing pipeline. Each model has its strengths and weaknesses, and engineering a real-world application often involves solving many problems without a perfect answer.
 
 
 ## Instructions
