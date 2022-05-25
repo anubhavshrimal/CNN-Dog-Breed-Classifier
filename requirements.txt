@@ -136,7 +136,7 @@ pydotplus==2.0.2
 pyglet==1.3.0
 Pygments==2.2.0
 pygpu==0.7.5
-PyJWT==1.5.3
+PyJWT==2.4.0
 pymavlink==2.2.20
 pymc3==3.2
 PyOpenGL==3.1.0
